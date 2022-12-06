@@ -24,11 +24,6 @@
 
 ![Elastic Beanstalk](./screenshots/Elasticbeanstalk/eb1.png)
 
-
-# Elastic Beanstalk ENV
-
-![Elastic Beanstalk Health](./screenshots/Elasticbeanstalk/eb_env.png)
-
 # Elastic Beanstalk Health
 
 ![Elastic Beanstalk Health](./screenshots/Elasticbeanstalk/eb2.png)
