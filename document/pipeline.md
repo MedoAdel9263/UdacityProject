@@ -1,8 +1,8 @@
 ### FrontEnd Deploy Script: 
 
-    aws s3 cp --recursive ./www s3://udagram-front/
+    aws s3 cp --recursive ./www s3://mymadelbucket/
 
-# S3 Frontend (udagram-front)
+# S3 Frontend (mymadelbucket)
 
 ![S3 Frontend](./screenshots/S3/s3_front.png)
 

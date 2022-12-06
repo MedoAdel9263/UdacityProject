@@ -11,7 +11,7 @@
 
 ### FrontEnd Enviroment: 
 
-* S3 BucketName: udagram-front
+* S3 BucketName: mymadelbucket
     
     S3 URL: `http://mymadelbucket.s3-website-us-east-1.amazonaws.com/`
 
