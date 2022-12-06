@@ -8,7 +8,7 @@
 
 ### BackEnd Deploy Script:
  
-    - eb init udagram-api --platform node.js --region us-east-1
+    - eb init contact-api-dev --platform node.js --region us-east-1
 
     - npm run build
 
@@ -16,8 +16,8 @@
     deploy:
     artifact: www/Archive.zip
 
-    - eb create --sample udagram-api
-    - eb use udagram-api
+    - eb create --sample contact-api-dev
+    - eb use contact-api-dev
     - eb deploy
 
 # Elastic Beanstalk

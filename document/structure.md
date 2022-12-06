@@ -32,7 +32,7 @@ DB ENDPOINT: `database-1.cbegjmn3bd4o.us-east-1.rds.amazonaws.com`
 ## Elastic Beanstalk
 
 * Application Name [EB_APP]: udagram-api
-* Enviroment Name [EB_ENV]: udagram-api
+* Enviroment Name [EB_ENV]: contact-api-dev
 
     EB URL: `http://contact-api-dev.eba-brmau8q8.us-east-1.elasticbeanstalk.com`
 
